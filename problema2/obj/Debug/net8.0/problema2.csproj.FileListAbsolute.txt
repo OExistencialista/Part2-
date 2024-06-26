@@ -1,0 +1,15 @@
+C:\Users\pedrovalle\Desktop\exercicios\part2\problema2\bin\Debug\net8.0\problema2.exe
+C:\Users\pedrovalle\Desktop\exercicios\part2\problema2\bin\Debug\net8.0\problema2.deps.json
+C:\Users\pedrovalle\Desktop\exercicios\part2\problema2\bin\Debug\net8.0\problema2.runtimeconfig.json
+C:\Users\pedrovalle\Desktop\exercicios\part2\problema2\bin\Debug\net8.0\problema2.dll
+C:\Users\pedrovalle\Desktop\exercicios\part2\problema2\bin\Debug\net8.0\problema2.pdb
+C:\Users\pedrovalle\Desktop\exercicios\part2\problema2\obj\Debug\net8.0\problema2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedrovalle\Desktop\exercicios\part2\problema2\obj\Debug\net8.0\problema2.AssemblyInfoInputs.cache
+C:\Users\pedrovalle\Desktop\exercicios\part2\problema2\obj\Debug\net8.0\problema2.AssemblyInfo.cs
+C:\Users\pedrovalle\Desktop\exercicios\part2\problema2\obj\Debug\net8.0\problema2.csproj.CoreCompileInputs.cache
+C:\Users\pedrovalle\Desktop\exercicios\part2\problema2\obj\Debug\net8.0\problema2.sourcelink.json
+C:\Users\pedrovalle\Desktop\exercicios\part2\problema2\obj\Debug\net8.0\problema2.dll
+C:\Users\pedrovalle\Desktop\exercicios\part2\problema2\obj\Debug\net8.0\refint\problema2.dll
+C:\Users\pedrovalle\Desktop\exercicios\part2\problema2\obj\Debug\net8.0\problema2.pdb
+C:\Users\pedrovalle\Desktop\exercicios\part2\problema2\obj\Debug\net8.0\problema2.genruntimeconfig.cache
+C:\Users\pedrovalle\Desktop\exercicios\part2\problema2\obj\Debug\net8.0\ref\problema2.dll
